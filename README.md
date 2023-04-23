@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Sanjoy Roy, a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on MERN stack developer.  
