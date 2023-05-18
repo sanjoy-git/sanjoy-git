@@ -26,7 +26,7 @@ I intend to work in a challenging and competitive environment where a strong sen
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working predictuse.com
+👩‍💻 I'm currently working https://techacademybd.xyz/
 
 🧠 I'm currently learning Next.js
 
