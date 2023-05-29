@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I'm Sanjoy Roy, I'm Sanjoy Roy, Full Stack Web Application Developer from  Bangladesh. I have a BSc in CSE from European University of Bangladesh. My previous job Data Entry Operator and company name is Golden Harvest Infotech. Running Job : Full Stack Web Application Developer.
+I'm Sanjoy Roy, Full Stack Web Application Developer from  Bangladesh. I have a BSc in CSE from European University of Bangladesh. My previous job Data Entry Operator and company name is Golden Harvest Infotech. Running Job : Full Stack Web Application Developer.
 
 I intend to work in a challenging and competitive environment where a strong sense of responsibility and commitment are required as energetic, creative, and dynamic and self-motivated. I always want to learn new things.
 
