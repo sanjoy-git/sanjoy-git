@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I'm Sanjoy Roy, a Full Stack Web Application Developer from  Bangladesh. I have a BSc in CSE from European University of Bangladesh. My previous job Data Entry Operator and company name is Golden Harvest Infotech. Running Job : full stack developer.
+I'm Sanjoy Roy, I'm Sanjoy Roy, Full Stack Web Application Developer from  Bangladesh. I have a BSc in CSE from European University of Bangladesh. My previous job Data Entry Operator and company name is Golden Harvest Infotech. Running Job : Full Stack Web Application Developer.
 
 I intend to work in a challenging and competitive environment where a strong sense of responsibility and commitment are required as energetic, creative, and dynamic and self-motivated. I always want to learn new things.
 
@@ -15,13 +15,13 @@ I intend to work in a challenging and competitive environment where a strong sen
 - Adobe Photoshop
 - Html, Css
 - JavaScript
-- MongoDB, Express.js, React.js, Node.js, Ejs
+- React.js, Node.js, MongoDB, Express.js, Ejs, Tailwindcss
 - MySQL
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/sanjoy-git)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjoy-in)
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/sanjoyroy-git)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjoyroy-in)
 [![twitter](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sanjoy-roy)
 
 
