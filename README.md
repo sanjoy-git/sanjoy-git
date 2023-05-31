@@ -13,8 +13,7 @@ I intend to work in a challenging and competitive environment where a strong sen
 
 - Microsoft Office
 - Adobe Photoshop
-- Html, Css
-- JavaScript
+- Html, Css, JavaScript
 - React.js, Tailwindcss
 - Node.js, Express.js, Ejs, MongoDB, MySQL
 
