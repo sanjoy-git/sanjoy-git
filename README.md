@@ -15,8 +15,8 @@ I intend to work in a challenging and competitive environment where a strong sen
 - Adobe Photoshop
 - Html, Css
 - JavaScript
-- React.js, Node.js, MongoDB, Express.js, Ejs, Tailwindcss
-- MySQL
+- React.js, Tailwindcss
+- Node.js, Express.js, Ejs, MongoDB, MySQL
 
 
 ## 🔗 Links
