@@ -19,13 +19,13 @@ I intend to work in a challenging and competitive environment where a strong sen
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/sanjoyroy-git?tab=repositories)
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/sanjoy-git?tab=repositories)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjoyroy-in)
 [![twitter](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sanjoy-roy)
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working https://techacademybd.xyz/
+👩‍💻 I'm currently working https://techacademybd.xyz (Remotely)
 
 🧠 I'm currently learning Next.js
 
