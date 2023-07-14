@@ -1,9 +1,9 @@
-![App Screenshot](https://media.licdn.com/dms/image/C4D16AQEYrkTvO1YyJg/profile-displaybackgroundimage-shrink_350_1400/0/1654975135395?e=1689206400&v=beta&t=yjY76w5mL0onKE9Nea_UiX8YXMDaxBXjvSSZX6jlSIk)
+![App Screenshot](https://media.licdn.com/dms/image/C4D16AQEYrkTvO1YyJg/profile-displaybackgroundimage-shrink_350_1400/0/1654975135395?e=1694649600&v=beta&t=VqaJ9dlNV8BgWFdpeR6TJXhG-LK5tcFpzLzteyDCtzk)
 
 
 ## 🚀 About Me
 
-I'm Sanjoy Roy, Web Application Developer from  Bangladesh. I have a BSc in CSE from European University of Bangladesh. My previous job Data Entry Operator and company name is Golden Harvest Infotech. Running Job : Web Application Developer (Remotely).
+I'm Sanjoy Roy, Web Developer from  Bangladesh. I have a BSc in CSE from European University of Bangladesh. My previous job Data Entry Operator and company name is Golden Harvest Infotech. Running Job : Web Application Developer (Remotely).
 
 I intend to work in a challenging and competitive environment where a strong sense of responsibility and commitment are required as energetic, creative, and dynamic and self-motivated. I always want to learn new things.
 
@@ -25,7 +25,7 @@ I intend to work in a challenging and competitive environment where a strong sen
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working https://techacademybd.xyz (Remotely)
+👩‍💻 I'm currently working https://techacademybd.xyz & https://predictuse.com (Remotely)
 
 🧠 I'm currently learning Next.js
 
