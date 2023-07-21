@@ -18,27 +18,27 @@ I intend to work in a challenging and competitive environment where a strong sen
 - Microsoft Office
 
 
-## MY PROJECTS
+## 🎖️ My Projects
 
-### Name: Techacademybd Frontend & Backend
+#### Techacademybd Frontend & Backend
 - Client Side Used: React.js, Tailwindcss 
 - Server Side Used: Node.js, Express.js, EJS, MySql
 - Github Code: https://github.com/sanjoy-git/techacademy-frontend
 - Live Link: https://techacademybd.predictuse.com
 
-### Name: Ecommerce Site Frontend and Backend
+#### Ecommerce Site Frontend and Backend
 - Client Side Used: React.js, CSS
 - Server Side Used: Node.js, Express.js, Mysql
 - Github Code: https://github.com/sanjoy-git/ecommerce-mern-project
 - Live Link: https://predictuse.com (own)
 - YouTube: https://youtu.be/2TlOB5gCXd4
 
-### Name: Farmer E-commerce Site Design
+#### Farmer E-commerce Site Design
 - Client Side: HTML, CSS, JS, Swiper, Fontawesome
 - Github Code: https://github.com/sanjoy-git/farmer-ecommerce
 - Live Link: https://sanjoy-git.github.io/farmer-ecommerce
 
-#### Please Visite Repositories For More Project...
+- Please Visite Repositories For More Project... https://github.com/sanjoy-git?tab=repositories
 
 
 ## 🔗 Links
@@ -46,6 +46,7 @@ I intend to work in a challenging and competitive environment where a strong sen
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjoy-in)
 [![twitter](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sanjoy-roy)
 
+#
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working https://techacademybd.xyz & https://predictuse.com (Remotely)
