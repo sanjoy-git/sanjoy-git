@@ -38,7 +38,7 @@ I intend to work in a challenging and competitive environment where a strong sen
 - [Github Code](https://github.com/sanjoy-git/farmer-ecommerce)
 - [Live Link](https://sanjoy-git.github.io/farmer-ecommerce)
 
-- Please Visite [Repositories](https://github.com/sanjoy-git?tab=repositories) For More...
+##### Please Visite [Repositories](https://github.com/sanjoy-git?tab=repositories) For More...
 
 
 ## 🔗 Links
