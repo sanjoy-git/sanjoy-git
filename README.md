@@ -23,26 +23,26 @@ I intend to work in a challenging and competitive environment where a strong sen
 #### Techacademybd Frontend & Backend
 - Client Side Used: React.js, Tailwindcss 
 - Server Side Used: Node.js, Express.js, EJS, MySql
-- Github Code: https://github.com/sanjoy-git/techacademy-frontend
-- Live Link: https://techacademybd.predictuse.com
+- [Github Code](https://github.com/sanjoy-git/techacademy-frontend)
+- [Live Link](https://techacademybd.predictuse.com)
 
 #### Ecommerce Site Frontend and Backend
 - Client Side Used: React.js, CSS
 - Server Side Used: Node.js, Express.js, Mysql
-- Github Code: https://github.com/sanjoy-git/ecommerce-mern-project
-- Live Link: https://predictuse.com (own)
-- YouTube: https://youtu.be/2TlOB5gCXd4
+- [Github Code](https://github.com/sanjoy-git/ecommerce-mern-project)
+- [Live Link](https://predictuse.com) (own)
+- [YouTube](https://youtu.be/2TlOB5gCXd4)
 
 #### Farmer E-commerce Site Design
 - Client Side: HTML, CSS, JS, Swiper, Fontawesome
-- Github Code: https://github.com/sanjoy-git/farmer-ecommerce
-- Live Link: https://sanjoy-git.github.io/farmer-ecommerce
+- [Github Code](https://github.com/sanjoy-git/farmer-ecommerce)
+- [Live Link](https://sanjoy-git.github.io/farmer-ecommerce)
 
-- Please Visite Repositories For More Project... https://github.com/sanjoy-git?tab=repositories
+- Please Visite [Repositories](https://github.com/sanjoy-git?tab=repositories) For More...
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/sanjoy-git?tab=repositories)
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/sanjoy-git)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjoy-in)
 [![twitter](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sanjoy-roy)
 
@@ -51,17 +51,11 @@ I intend to work in a challenging and competitive environment where a strong sen
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working https://techacademybd.xyz & https://predictuse.com (Remotely)
 
-🧠 I'm currently learning Next.js
+🧠 I'm currently learning Next.js and previous learn improve.
 
 👯‍♀️ I'm looking to collaborate mern stack youtube channel.
 
-🤔 I'm looking for help with MERN stack developer team.
+💬 I love working...
 
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
+📫 🤔 😄 ⚡️ 
 
