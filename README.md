@@ -49,7 +49,7 @@ I intend to work in a challenging and competitive environment where a strong sen
 #
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working https://techacademybd.xyz & https://predictuse.com (Remotely)
+👩‍💻 I'm currently working [techacademy](https://techacademybd.xyz) & [predictuse](https://predictuse.com) (Remotely)
 
 🧠 I'm currently learning Next.js and previous learn improve.
 
