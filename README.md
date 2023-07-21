@@ -18,7 +18,27 @@ I intend to work in a challenging and competitive environment where a strong sen
 - Microsoft Office
 
 
+## MY PROJECTS
 
+### Name: Techacademybd Frontend & Backend
+- Client Side Used: React.js, Tailwindcss 
+- Server Side Used: Node.js, Express.js, EJS, MySql
+- Github Code: https://github.com/sanjoy-git/techacademy-frontend
+- Live Link: https://techacademybd.predictuse.com
+
+### Name: Ecommerce Site Frontend and Backend
+- Client Side Used: React.js, CSS
+- Server Side Used: Node.js, Express.js, Mysql
+- Github Code: https://github.com/sanjoy-git/ecommerce-mern-project
+- Live Link: https://predictuse.com (own)
+- YouTube: https://youtu.be/2TlOB5gCXd4
+
+### Name: Farmer E-commerce Site Design
+- Client Side: HTML, CSS, JS, Swiper, Fontawesome
+- Github Code: https://github.com/sanjoy-git/farmer-ecommerce
+- Live Link: https://sanjoy-git.github.io/farmer-ecommerce
+
+#### Please Visite Repositories For More Project...
 
 
 ## 🔗 Links
