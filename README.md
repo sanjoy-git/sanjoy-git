@@ -2,17 +2,14 @@
 
 
 ## 🚀 About Me
+### Hi, I'm Sanjoy Roy! 👋
+Web Developer. Experiences HTML, CSS, JavaScript, React.js, Tailwind CSS etc. I never stop until solve a problem and love to finish any work efficiently. 
+Learning more skills to update myself more in future Next.js improving full stack web development.
 
-I'm Sanjoy Roy, Web Developer from  Bangladesh. I have a BSc in CSE from European University of Bangladesh. My previous job Data Entry Operator and company name is Golden Harvest Infotech. Running Job : Web Application Developer (Remotely).
-
-I intend to work in a challenging and competitive environment where a strong sense of responsibility and commitment are required as energetic, creative, and dynamic and self-motivated. I always want to learn new things.
-
-
-# Hi, I'm Sanjoy Roy! 👋
 ## 🛠 Skills
 
-- Node.js, Express.js, Ejs, MongoDB, MySQL
 - React.js, Tailwindcss
+- Node.js, Express.js, Ejs, MongoDB, MySQL
 - Html, Css, JavaScript
 - Adobe Photoshop
 - Microsoft Office
