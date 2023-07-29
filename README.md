@@ -17,7 +17,7 @@ Learning more skills to update myself more in future Next.js improving full stac
 
 ## 🎖️ My Projects
 
-#### Techacademybd Frontend & Backend
+#### Techacademybd Frontend
 - Client Side Used: React.js, Tailwindcss 
 - Server Side Used: Node.js, Express.js, EJS, MySql
 - [Github Code](https://github.com/sanjoy-git/techacademy-frontend)
