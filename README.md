@@ -21,7 +21,7 @@ Learning more skills to update myself more in future Next.js improving full stac
 - Client Side Used: React.js, Tailwindcss 
 - Server Side Used: Node.js, Express.js, EJS, MySql
 - [Github Code](https://github.com/sanjoy-git/techacademy-frontend)
-- [Live Link](https://techacademybd.predictuse.com)
+- [Live Link](https://techacademybd.xyz)
 
 #### Ecommerce Site Frontend and Backend
 - Client Side Used: React.js, CSS
