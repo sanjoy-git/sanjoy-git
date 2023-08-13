@@ -3,14 +3,13 @@
 
 ## 🚀 About Me
 ### Hi, I'm Sanjoy Roy! 👋
-Web Developer. Experiences HTML, CSS, JavaScript, React.js, Tailwind CSS etc. I never stop until solve a problem and love to finish any work efficiently. 
+Web Developer. I never stop until solve a problem and love to finish any work efficiently. 
 Learning more skills to update myself more in future Next.js improving full stack web development.
 
 ## 🛠 Skills
 
 - React.js, Tailwindcss
-- Node.js, Express.js, Ejs, MongoDB, MySQL
-- Html, Css, JavaScript
+- Express.js, Ejs, MongoDB, MySQL
 - Adobe Photoshop
 - Microsoft Office
 
@@ -46,7 +45,7 @@ Learning more skills to update myself more in future Next.js improving full stac
 #
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working [techacademy](https://techacademybd.xyz) & [predictuse](https://predictuse.com) (Remotely)
+👩‍💻 I'm currently working [techacademy](https://techacademybd.xyz) (Remotely)
 
 🧠 I'm currently learning Next.js and previous learn improve.
 
