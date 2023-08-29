@@ -16,8 +16,14 @@ Learning more skills to update myself more in future Next.js improving full stac
 
 ## 🎖️ My Projects
 
+#### Ecommerce Site Frontend and Backend
+- Client Side Used: React.js, TailwindCss, React-Router-Dom, Axios, AOS, React-icons Etc..
+- Server Side Used: Node.js, Express.js, Mysql, bcrypt, JWT Token, Cors, Etc...
+- Github Code is Private.
+- [Live Link](https://www.naturalbd.xyz) (Production)
+
 #### Techacademybd Frontend
-- Client Side Used: React.js, Tailwindcss 
+- Client Side Used: React.js, Tailwindcss, React-icons, React-Router-Dom, Particals, Axios Etc... 
 - Server Side Used: Node.js, Express.js, EJS, MySql
 - [Github Code](https://github.com/sanjoy-git/techacademy-frontend)
 - [Live Link](https://techacademybd.xyz)
@@ -26,7 +32,6 @@ Learning more skills to update myself more in future Next.js improving full stac
 - Client Side Used: React.js, CSS
 - Server Side Used: Node.js, Express.js, Mysql
 - [Github Code](https://github.com/sanjoy-git/ecommerce-mern-project)
-- [Live Link](https://predictuse.com) (own)
 - [YouTube](https://youtu.be/2TlOB5gCXd4)
 
 #### Farmer E-commerce Site Design
