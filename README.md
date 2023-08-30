@@ -3,8 +3,7 @@
 
 ## 🚀 About Me
 ### Hi, I'm Sanjoy Roy! 👋
-Web Developer. I never stop until solve a problem and love to finish any work efficiently. 
-Learning more skills to update myself more in future Next.js improving full stack web development.
+Web Developer from Bangladesh. I have a BSc in CSE. My working technology is React.js, Node.js etc... My service is website design, development & maintaining. I always try to best service."
 
 ## 🛠 Skills
 
@@ -44,12 +43,33 @@ Learning more skills to update myself more in future Next.js improving full stac
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/sanjoy-git)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjoy-in)
-[![twitter](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sanjoy-roy)
 
-#
+[![youtube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sanjoy-roy)
 
-## Other Common Github Profile Sections
+[![photogallery](https://img.shields.io/badge/Photo_Gallery-yellow?style=for-the-badge&logo=google-photos&logoColor=white)](https://sites.google.com/view/sanjoy-roy)
+
+
+## 🧑‍🎓 Educations
+- 2023: Bachelor of Science (BSC in CSE), European University of Bangladesh. (CGPA: 3.71 out of 4).
+- 2018: Diploma in Engineering, Magura Polytechnic institute, Computer Technology (CGPA: 3.12 out of 4).
+
+
+## 🎖️ Course
+- Self-Learning
+- Learn with Sumit Course
+- Think in a React
+- LEDP, Wasda English Course
+- PCS(professional customer service)
+- Etc...
+
+## 🪁 Hobbies
+- Learning
+- Coding
+- Travelling
+  
+## 📌 Others
 👩‍💻 I'm currently working [techacademy](https://techacademybd.xyz) (Remotely)
 
 🧠 I'm currently learning Next.js and previous learn improve.
@@ -58,5 +78,5 @@ Learning more skills to update myself more in future Next.js improving full stac
 
 💬 I love working...
 
-📫 🤔 😄 ⚡️ 
+📫 ⚡️ 
 
