@@ -12,7 +12,7 @@ Web Developer from Bangladesh. I have a BSc in CSE. My working technology is Rea
 
 
 ## 👑 Job
-- Web Developer: Techacademybd (Remotely Connected) [Running...]  
+- Web Developer: Techacademybd (Remotely Connected) & Local Project [Running...]  
 - Data Entry Operator: Golden Harvest Infotech ltd (January-2020 to December-2020)[First Job].
 
 
