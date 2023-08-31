@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 ### Hi, I'm Sanjoy Roy! 👋
-Web Developer from Bangladesh. I have a BSc in CSE. My working technology is React.js, Node.js etc... My service is website design, development & maintaining. I always try to best service."
+Web Developer from Bangladesh. I have a BSc in CSE. My working technology is React.js, Node.js etc... My service is website design, development & maintaining. I always try to best service.
 
 
 ## 🎓 Education
@@ -18,10 +18,8 @@ Web Developer from Bangladesh. I have a BSc in CSE. My working technology is Rea
 
 ## 🛠 Skills
 
-- Reactjs, Tailwindcss etc
-  ![My Skills](https://skills.thijs.gg/icons?i=react,tailwind&theme=light)
-- Nodejs, Expressjs, MongoDB, MySQL, Ejs
-  ![My Skills](https://skills.thijs.gg/icons?i=nodejs,express,mongo,mysql&theme=light)
+- Reactjs, Tailwindcss  ![My Skills](https://skills.thijs.gg/icons?i=react,tailwind&theme=light)
+- Nodejs, Expressjs, MongoDB, MySQL, Ejs  ![My Skills](https://skills.thijs.gg/icons?i=nodejs,express,mongo,mysql&theme=light)
 - Adobe Photoshop
 - Microsoft Office
 - Etc
