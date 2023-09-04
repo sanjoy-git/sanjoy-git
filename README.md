@@ -19,7 +19,7 @@ Web Developer from Bangladesh. I have a BSc in CSE. My working technology is Rea
 ## 🛠 Skills
 
 - Reactjs, Tailwindcss  ![My Skills](https://skills.thijs.gg/icons?i=react,tailwind&theme=light)
-- Nodejs, Expressjs, MongoDB, MySQL, Ejs  ![My Skills](https://skills.thijs.gg/icons?i=nodejs,express,mongo,mysql&theme=light)
+- Nodejs, Expressjs, MongoDB, MySQL, Ejs
 - Adobe Photoshop
 - Microsoft Office
 - Etc
