@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 ### Hi, I'm Sanjoy Roy! 👋
-Web Developer. I never stop until solve a problem and love to finish any work efficiently. Learning more skills to update myself more in future Next.js improving full stack web development. My learning first language is c and c#. I am working now with react.js, node.js, mysql etc.
+Web Developer. I never stop until solve a problem and love to finish any work efficiently. Learning more skills to update myself more in future Next.js improving full stack web development. My learning first language is c and c# basic, after then JavaScript. I chose JavaScript. So, i am working now with react.js, node.js, mysql etc.
 
 
 ## 🎓 Education
@@ -72,7 +72,7 @@ Web Developer. I never stop until solve a problem and love to finish any work ef
 - Think in a React
 - LEDP, Wasda English Course
 - PCS(professional customer service)
-- Etc...
+- Etc
 
 ## 🪁 Hobbies
 - Learning
@@ -83,6 +83,7 @@ Web Developer. I never stop until solve a problem and love to finish any work ef
 ## 📌 Extra Curricular Activities
 - 👯‍♀️ I'm started youtubeing for knowledge share.
 - 👯‍♀️ I used to be a member of bidyanondo foundation.
+- Etc
 
 
 # ⚡️ My services
@@ -105,3 +106,5 @@ Web Developer. I never stop until solve a problem and love to finish any work ef
 ![](https://skills.thijs.gg/icons?i=mongodb,mysql&theme)
 - User Rights Management
 - Data Management
+
+#I always try to best service.
