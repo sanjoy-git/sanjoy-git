@@ -1,19 +1,14 @@
-![App Screenshot](https://media.licdn.com/dms/image/C4D16AQEYrkTvO1YyJg/profile-displaybackgroundimage-shrink_350_1400/0/1654975135395?e=1694649600&v=beta&t=VqaJ9dlNV8BgWFdpeR6TJXhG-LK5tcFpzLzteyDCtzk)
+![App Screenshot](https://media.licdn.com/dms/image/C4D16AQEYrkTvO1YyJg/profile-displaybackgroundimage-shrink_350_1400/0/1654975135395?e=1700092800&v=beta&t=ClOrH_Wpcxj6c1ZsETuxNCQcUWYtt1SyMpwzzHCxJEw)
 
 
 ## 🚀 About Me
 ### Hi, I'm Sanjoy Roy! 👋
-Web Developer from Bangladesh. I have a BSc in CSE. My working technology is React.js, Node.js etc... My service is website design, development & maintaining. I always try to best service.
+Web Developer. I never stop until solve a problem and love to finish any work efficiently. Learning more skills to update myself more in future Next.js improving full stack web development. My learning first language is c and c#. I am working now with react.js, node.js, mysql etc.
 
 
 ## 🎓 Education
 - 2023: Bachelor of Science (BSC in CSE), European University of Bangladesh. (CGPA: 3.71 out of 4).
 - 2018: Diploma in Engineering, Magura Polytechnic institute, Computer Technology (CGPA: 3.12 out of 4).
-
-
-## 👑 Job
-- Web Developer: Techacademybd (Remotely Connected) & Local Project [Running...]  
-- Data Entry Operator: Golden Harvest Infotech ltd (January-2020 to December-2020) [First Job].
 
 
 ## 🛠 Skills
@@ -23,6 +18,11 @@ Web Developer from Bangladesh. I have a BSc in CSE. My working technology is Rea
 - Adobe Photoshop
 - Microsoft Office
 - Etc
+
+
+## 👑 Job
+- Web Developer: Techacademybd (Remotely Connected) & Local Project [Running...]  
+- Data Entry Operator: Golden Harvest Infotech ltd (January-2020 to December-2020) [First Job].
 
 
 
@@ -57,7 +57,7 @@ Web Developer from Bangladesh. I have a BSc in CSE. My working technology is Rea
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/sanjoy-git)
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sanjoyroy.netlify.app/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjoy-in)
 
@@ -78,15 +78,30 @@ Web Developer from Bangladesh. I have a BSc in CSE. My working technology is Rea
 - Learning
 - Coding
 - Travelling
+
   
-## 📌 Others
-👩‍💻 I'm currently working [techacademy](https://techacademybd.xyz) (Remotely)
+## 📌 Extra Curricular Activities
+- 👯‍♀️ I'm started youtubeing for knowledge share.
+- 👯‍♀️ I used to be a member of bidyanondo foundation.
 
-🧠 I'm currently learning Next.js and previous learn improve.
 
-👯‍♀️ I'm looking to collaborate mern stack youtube channel.
+# ⚡️ My services
+![](https://skills.thijs.gg/icons?i=html,css,js&theme)
+- Dom Manipulation
+- Creating Elements
+- Introduction To Projects
 
-💬 I love working...
+![](https://skills.thijs.gg/icons?i=react&theme)
+- React Web Application
+- Single Page Application
+- Responsive & Cross-Platform Compatibility
 
-📫 ⚡️ 
 
+![](https://skills.thijs.gg/icons?i=nodejs&theme)
+- Server Management
+- Handling JSON
+- Authentication
+
+![](https://skills.thijs.gg/icons?i=mongodb,mysql&theme)
+- User Rights Management
+- Data Management
