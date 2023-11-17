@@ -1,4 +1,4 @@
-![App Screenshot](https://media.licdn.com/dms/image/C4D16AQEYrkTvO1YyJg/profile-displaybackgroundimage-shrink_350_1400/0/1654975135395?e=1700092800&v=beta&t=ClOrH_Wpcxj6c1ZsETuxNCQcUWYtt1SyMpwzzHCxJEw)
+![App Screenshot](https://media.licdn.com/dms/image/C4D16AQEYrkTvO1YyJg/profile-displaybackgroundimage-shrink_350_1400/0/1654975136029?e=1705536000&v=beta&t=uuJlTEEqBrQ60JHV80vRx1iqSvsxUQkH6t_5BmKtOz4)
 
 
 ## 🚀 About Me
