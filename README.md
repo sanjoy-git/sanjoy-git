@@ -13,16 +13,18 @@ Web Developer. I never stop until solve a problem and love to finish any work ef
 
 ## 🛠 Skills
 
-- Reactjs, Tailwindcss  ![My Skills](https://skills.thijs.gg/icons?i=react,tailwind&theme=light)
-- Nodejs, Expressjs, MongoDB, MySQL, Ejs
+- Reactjs, Tailwindcss, Astro  ![My Skills](https://skills.thijs.gg/icons?i=react,tailwind,astro&theme=light)
+- Nodejs, Expressjs, MySQL, Ejs
+- Familiar :-C, MongoDB, PHP, Laravel
 - Adobe Photoshop
 - Microsoft Office
 - Etc
 
 
 ## 👑 Job
-- Web Developer: Techacademybd (Remotely Connected) & Local Project [Running...]  
-- Data Entry Operator: Golden Harvest Infotech ltd (January-2020 to December-2020) [First Job].
+- Officer: [DynamicHostBD](https://dynamichostbd.com) (01-Jan-2024 to Running)
+- Founder: [CodeSeba](https://codeseba.xyz)(2023)
+- Data Entry Operator: [Golden-Harvest-Infotech-Ltd](https://www.goldenharvestbd.com) (January-2020 to December-2020) [First Job].
 
 
 
@@ -103,3 +105,4 @@ Web Developer. I never stop until solve a problem and love to finish any work ef
 - Data Management
 
 #I always try to best service.
+
