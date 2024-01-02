@@ -28,19 +28,12 @@ Web Developer. I never stop until solve a problem and love to finish any work ef
 
 ## 🎖️ My Projects
 
-#### # Landing Page E-commerce Website (production)
-- Client Side Used: React.js, TailwindCss, React-Router-Dom, Axios, AOS, React-icons Etc..
-- Server Side Used: Node.js, Express.js, Mysql, bcrypt, JWT Token, Cors, Etc...
-- Github Code is Private.
-- [User Link](https://www.naturalbd.xyz) |  [Admin Link](https://www.naturalbd.xyz/admin)
-- Note : This company is facebook boosting product selling company. Note: I just created this website (Remotely)
-
-#### # IT Servive Company WebSite (production)
-- Client Side Used: React.js, Tailwindcss, React-icons, React-Router-Dom, Particals, Axios Etc... 
-- Server Side Used: Node.js, Express.js, EJS, MySql
-- [Github Code](https://github.com/sanjoy-git/techacademy-frontend)
-- [Live Link](https://techacademybd.xyz)
-- Note : This company is startup IT service company. Digital marketing any support (only facebook). Note: I just created this website (Remotely)
+#### # Next Generation Software Company (startup)
+- Client Side Used: Astro, Reactjs, Tailwindcss Etc... 
+- Server Side Used: Expressjs, MySql
+- [Github Code]()
+- [Live Link](https://codeseba.xyz)
+- Note : This company is startup software company.
 
 #### # E-commerce Website (practice)
 - Client Side Used: React.js, CSS
