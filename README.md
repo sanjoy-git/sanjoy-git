@@ -1,4 +1,4 @@
-![App Screenshot]([https://media.licdn.com/dms/image/C4D16AQEYrkTvO1YyJg/profile-displaybackgroundimage-shrink_350_1400/0/1654975136029?e=1705536000&v=beta&t=uuJlTEEqBrQ60JHV80vRx1iqSvsxUQkH6t_5BmKtOz4](https://yt3.googleusercontent.com/E6TAcx374aEjbA0BkbmhtotJR8f0MbdhN8ugGxreeUBZyr-c2ktWX8zAsFIw-tyNIVEP66mhZA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+![App Screenshot](https://yt3.googleusercontent.com/E6TAcx374aEjbA0BkbmhtotJR8f0MbdhN8ugGxreeUBZyr-c2ktWX8zAsFIw-tyNIVEP66mhZA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 
 ## 🚀 About Me
@@ -13,7 +13,7 @@ Web Developer. I never stop until solve a problem and love to finish any work ef
 
 ## 🛠 Skills
 
-- Reactjs, Tailwindcss, Astro  ![My Skills](https://skills.thijs.gg/icons?i=react,tailwind,astro&theme=light)
+- Reactjs, Tailwindcss, Astro
 - Nodejs, Expressjs, MySQL, Ejs
 - Familiar :-C, MongoDB, PHP, Laravel
 - Adobe Photoshop
@@ -105,4 +105,5 @@ Web Developer. I never stop until solve a problem and love to finish any work ef
 - Data Management
 
 #I always try to best service.
+
 
