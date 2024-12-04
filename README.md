@@ -1,4 +1,5 @@
-![App Screenshot](https://yt3.googleusercontent.com/E6TAcx374aEjbA0BkbmhtotJR8f0MbdhN8ugGxreeUBZyr-c2ktWX8zAsFIw-tyNIVEP66mhZA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+![App Screenshot](![image](https://github.com/user-attachments/assets/2050d174-d7ca-46ee-b0aa-8180e8e5601e)
+)
 
 
 ## 🚀 About Me
