@@ -1,7 +1,5 @@
 
-![App Screenshot](![image](https://github.com/user-attachments/assets/e8259ba5-d5a6-4823-8514-b185b514065b)
-)
-
+![App Screenshot](https://cdn.bsky.app/img/banner/plain/did:plc:5n4jovf3tljd54hfgc7xoifw/bafkreihg5sqm3ivuhrwh3dcupu5oiwi6rp6bxpusqz26ncntj4dayis2wq@jpeg)
 
 
 ## 🚀 About Me
@@ -122,4 +120,10 @@ Web Developer. I never stop until solve a problem and love to finish any work ef
 
 #I always try to best service.
 
+
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
