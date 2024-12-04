@@ -1,5 +1,5 @@
-![App Screenshot](![image](https://github.com/user-attachments/assets/2050d174-d7ca-46ee-b0aa-8180e8e5601e)
-)
+(![image](https://github.com/user-attachments/assets/2050d174-d7ca-46ee-b0aa-8180e8e5601e)
+
 
 
 ## 🚀 About Me
