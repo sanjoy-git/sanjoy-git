@@ -120,10 +120,3 @@ Web Developer. I never stop until solve a problem and love to finish any work ef
 
 #I always try to best service.
 
-
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
