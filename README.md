@@ -8,54 +8,56 @@
 ### Hi, I'm Sanjoy Roy! 👋
 Web Developer. I never stop until solve a problem and love to finish any work efficiently. Learning more skills to update myself more in future NextJS improving full stack web development. My learning first language is c and c# basic, after then JavaScript. I chose JavaScript. So, i am working now with __React & TS & Tailwind__ & Node. Passionate about Web development & SEO. [Portfolio](https://sprofile.web.app) | [Blogs](https://medium.com/@sanjoy-roy)
  
+I intend to work in a challenging and competitive environment where a strong sense of responsibility and commitment are required as energetic, creative, and dynamic and self-motivated. I always want to learn new things and want to work.
 
+#
 ## 🎓 Education
 - 2023: Bachelor of Science (BSC in CSE), European University of Bangladesh. (CGPA: 3.71 out of 4).
 - 2018: Diploma in Engineering, Magura Polytechnic institute, Computer Technology (CGPA: 3.12 out of 4).
 
-
+#
 ## 🛠 Skills
 
-- __ReactJs, TypeScript, Tailwindcss, Astro__
-- Nodejs, Expressjs, MySQL, Ejs
+- __React, TypeScript, Tailwind, Astro__
+- Node, Express, MySQL, Ejs
 - __Native Apps__ Capasitor, Ionic
 - __Familiar__ : C, C#, MongoDB, PHP, Laravel
 - Adobe Photoshop
 - Microsoft Office
 - Etc
 
-
+#
 ## 👑 Job
 - __Content Creator__ [Youtube](https://www.youtube.com/@sanjoy-roy) | Social Media
 - __Founder__ [CodeSeba](https://codeseba.xyz)
 - __React Developer__ [DynamicHostBD](https://dynamichostbd.com) (2024)
 - __Data Entry Operator__ [Golden-Harvest-Infotech-Ltd](https://www.goldenharvestbd.com) (January-2020 to December-2020) [First Job].
 
-
-
+#
 ## 🎖️ My Projects
 
-#### # Next Generation Software Company (startup)
+#### __Next Generation Software Company (startup)__
 - __Client Side__ Astro, Reactjs, Tailwindcss Etc... 
 - __Server Side__ Expressjs, MySql
 - [Github Code]()
 - [Live Link](https://codeseba.xyz)
 - __Note__ This company is startup software company.
 
-#### # E-commerce Website (practice)
+
+#### __E-commerce Website (practice)__
 - __Client Side__ React.js, CSS
 - __Server Side__ Node.js, Express.js, Mysql
 - [Github Code](https://github.com/sanjoy-git/ecommerce-mern-project)
 - [YouTube](https://youtu.be/2TlOB5gCXd4)
 
-#### # Farmer E-commerce (practice)
+#### __Farmer E-commerce (practice)__
 - __Client Side__ HTML, CSS, JS, Swiper, Fontawesome
 - [Github Code](https://github.com/sanjoy-git/farmer-ecommerce)
 - [Live Link](https://sanjoy-git.github.io/farmer-ecommerce)
 
 ##### [Repositories](https://github.com/sanjoy-git?tab=repositories) or [Portfolio](https://sprofile.web.app) For More...
 
-
+#
 ## 🔗Social Links
 
 [Portfolio](https://sprofile.web.app) | [GitHub](https://github.com/sanjoy-git) | [Linkedin](https://www.linkedin.com/in/sanjoy-in)
@@ -71,7 +73,7 @@ Web Developer. I never stop until solve a problem and love to finish any work ef
 [Pinterst](https://www.pinterest.com/sanjoy_pt) |
 [Photos](https://www.pinterest.com/sanjoy_pt/share-photos)
 
-
+#
 ## 🎖️ Course
 - Self-Learning
 - Learn with Sumit Course
@@ -79,19 +81,19 @@ Web Developer. I never stop until solve a problem and love to finish any work ef
 - LEDP, Wasda English Course
 - PCS(professional customer service)
 - Etc
-
+#
 ## 🪁 Hobbies
 - Learning
 - Coding
 - Travelling
 
-  
+#  
 ## 📌 Extra Curricular Activities
 - 👯‍♀️ I'm started youtubeing for knowledge share.
 - 👯‍♀️ I used to be a member of bidyanondo foundation.
 - Etc
 
-
+#
 ## ⚡️ My services
 
 - First & Mordan Web Application/WebSite
