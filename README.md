@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 ### Hi, I'm Sanjoy Roy! 👋
-Web Developer. I never stop until solve a problem and love to finish any work efficiently. Learning more skills to update myself more in future NextJS improving full stack web development. My learning first language is c and c# basic, after then JavaScript. I chose JavaScript. So, i am working now with ReactJS & NodeJS. Passionate about Web development & SEO. [Portfolio](https://sprofile.web.app) | [Blogs](https://medium.com/@sanjoy-roy)
+Web Developer. I never stop until solve a problem and love to finish any work efficiently. Learning more skills to update myself more in future NextJS improving full stack web development. My learning first language is c and c# basic, after then JavaScript. I chose JavaScript. So, i am working now with __React & TS & Tailwind__ & Node. Passionate about Web development & SEO. [Portfolio](https://sprofile.web.app) | [Blogs](https://medium.com/@sanjoy-roy)
  
 
 ## 🎓 Education
@@ -16,8 +16,9 @@ Web Developer. I never stop until solve a problem and love to finish any work ef
 
 ## 🛠 Skills
 
-- __ReactJs, TypeScript, Tailwindcss, Astro, CapasitorJs__
+- __ReactJs, TypeScript, Tailwindcss, Astro__
 - Nodejs, Expressjs, MySQL, Ejs
+- __Native Apps__ Capasitor, Ionic
 - __Familiar__ : C, C#, MongoDB, PHP, Laravel
 - Adobe Photoshop
 - Microsoft Office
@@ -93,8 +94,8 @@ Web Developer. I never stop until solve a problem and love to finish any work ef
 
 ## ⚡️ My services
 
-
-- React Web Application
+- First & Mordan Web Application/WebSite
+- Application Minimum Build Size
 - Single Page Application
 - Server & Client Side Rendering
 - Responsive & Cross-Platform Compatibility
@@ -105,7 +106,7 @@ Web Developer. I never stop until solve a problem and love to finish any work ef
 ####
 - Server Management
 - Handling JSON
-- Authentication
+- Authentication is Token Based
 ####
 - User Rights Management
 - Data Management
