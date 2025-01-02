@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 ### Hi, I'm Sanjoy Roy! 👋
-Web Developer. I never stop until solve a problem and love to finish any work efficiently. Learning more skills to update myself more in future NextJS improving full stack web development. My learning first language is c and c# basic, after then JavaScript. I chose JavaScript. So, i am working now with __React & TS & Tailwind__ & Node. Passionate about Web development & SEO. [Portfolio](https://sprofile.web.app) | [Projects](https://obsius.site/1g5n4h0n2e19202o6d3h) | [Blogs](https://medium.com/@sanjoy-roy) | [Youtube](https://www.youtube.com/@sanjoy-roy). Founder at [CodeSeba.Com](https://codeseba.com)
+Web Developer. I never stop until solve a problem and love to finish any work efficiently. Learning more skills to update myself more in future NextJS improving full stack web development. My learning first language is c and c# basic, after then JavaScript. I chose JavaScript. So, i am working now with __React & TS & Tailwind__ & Node. Passionate about Web development & SEO. [Portfolio](https://sprofile.web.app) | [Projects](https://obsius.site/1g5n4h0n2e19202o6d3h) | [Blogs](https://medium.com/@sanjoy-roy) | [Youtube](https://www.youtube.com/@sanjoy-roy). Founder & CEO at [CodeSeba.Com](https://codeseba.com)
  
 I intend to work in a challenging and competitive environment where a strong sense of responsibility and commitment are required as energetic, creative, and dynamic and self-motivated. I always want to learn new things and want to work.
 
