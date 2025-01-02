@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 ### Hi, I'm Sanjoy Roy! 👋
-Web Developer. I never stop until solve a problem and love to finish any work efficiently. Learning more skills to update myself more in future NextJS improving full stack web development. My learning first language is c and c# basic, after then JavaScript. I chose JavaScript. So, i am working now with __React & TS & Tailwind__ & Node. Passionate about Web development & SEO. [Portfolio](https://sprofile.web.app) | [Projects](https://obsius.site/1g5n4h0n2e19202o6d3h) | [Blogs](https://medium.com/@sanjoy-roy) | [Youtube](https://www.youtube.com/@sanjoy-roy)
+Web Developer. I never stop until solve a problem and love to finish any work efficiently. Learning more skills to update myself more in future NextJS improving full stack web development. My learning first language is c and c# basic, after then JavaScript. I chose JavaScript. So, i am working now with __React & TS & Tailwind__ & Node. Passionate about Web development & SEO. [Portfolio](https://sprofile.web.app) | [Projects](https://obsius.site/1g5n4h0n2e19202o6d3h) | [Blogs](https://medium.com/@sanjoy-roy) | [Youtube](https://www.youtube.com/@sanjoy-roy). Founder at [CodeSeba.Com](https://codeseba.com)
  
 I intend to work in a challenging and competitive environment where a strong sense of responsibility and commitment are required as energetic, creative, and dynamic and self-motivated. I always want to learn new things and want to work.
 
@@ -29,7 +29,7 @@ I intend to work in a challenging and competitive environment where a strong sen
 #
 ## 👑 Job
 - __Content Creator__ [Youtube](https://www.youtube.com/@sanjoy-roy) | Social Media
-- __Founder__ [CodeSeba](https://codeseba.xyz)
+- __Founder__ [CodeSeba](https://codeseba.com)
 - __React Developer__ [DynamicHostBD](https://dynamichostbd.com) (2024)
 - __Data Entry Operator__ [Golden-Harvest-Infotech-Ltd](https://www.goldenharvestbd.com) (January-2020 to December-2020) [First Job].
 
@@ -40,7 +40,7 @@ I intend to work in a challenging and competitive environment where a strong sen
 - __Client Side__ Astro, Reactjs, Tailwindcss Etc... 
 - __Server Side__ Expressjs, MySql
 - [Github Code]()
-- [Live Link](https://codeseba.xyz)
+- [Live Link](https://codeseba.com)
 - __Note__ This company is startup software company.
 
 
