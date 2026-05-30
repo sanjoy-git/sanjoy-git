@@ -137,3 +137,7 @@ I intend to work in a challenging and competitive environment where a strong sen
 ## single page application
 ## bangladesh best software engineering
 ## bangladesh best web developer
+
+## Others Links
+[QR Code Scanner and Generator](https://qrcodeeasy.netlify.app)
+
